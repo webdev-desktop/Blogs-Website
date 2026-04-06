@@ -2,8 +2,9 @@
 
 > A modern, responsive blog website with a clean UI built using HTML, CSS, and JavaScript.
 
-🚀 **Live Demo:**  
-👉 [Click Here to View Live](LIVE_DEMO_URL)
+🚀 **Live Demo:**
+
+🔗 [Live Demo](https://blogs.webdevzone.in)
 
 ---
 
@@ -36,11 +37,9 @@
 
 ## 📸 Screenshots
 
-> (Yaha baad me screenshots add karna)
+>
 
-📷 Homepage Preview
-📷 Blog Page
-📷 Mobile View
+📷
 
 ---
 
