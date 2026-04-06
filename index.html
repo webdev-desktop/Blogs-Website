@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WebDev Blogs</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" type="image/png" href="./Blogs_Website_Logo.png" />
+  </head>
+
+  <body>
+    <div class="container">
+      <header class="header_container">
+        <!-- <div class="header_title"> -->
+        <h1 class="header_title">WebDev Blogs</h1>
+        <!-- </div> -->
+        <div class="headerDiscription">
+          A curated collection of high-quality articles, guides, and resources
+          designed to help developers build better, faster, and more scalable
+          web applications.
+        </div>
+      </header>
+      <main>
+        <div class="cardsContainers"></div>
+      </main>
+      <button id="scrollTopBtn">↑</button>
+    </div>
+
+    <script>
+      const container = document.querySelector(".cardsContainers");
+      const btn = document.getElementById("scrollTopBtn");
+
+      // scroll pe show/hide
+      window.addEventListener("scroll", () => {
+        if (window.scrollY > 300) {
+          btn.classList.add("show");
+        } else {
+          btn.classList.remove("show");
+        }
+      });
+
+      // click pe top scroll
+      btn.addEventListener("click", () => {
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth",
+        });
+      });
+
+      async function displayCards() {
+        try {
+          // JSON file fetch karein
+          const response = await fetch("data.json");
+          const data = await response.json();
+
+          // Map function se HTML create karein
+          const html = data
+            .map(
+              (item) => `
+            <div class="card_container">
+                <div class="card_Imag_Container">
+                    <img src="${item.cardImage}" alt="card" class="cardImg" loading="lazy" />
+                </div>
+                <div class="card_titale_container">
+                        <h2 class="card_titale">${item.title}</h2>
+                    <p class="card_discription">${item.description}</p>
+                </div>
+                <div class="card_footer">
+                    <div class="card_autor_caontainer">
+                        <div class="card_avtar">
+                            <img src="${item.authorImg}" alt="avatar" loading="lazy" class="card_avtar_img" />
+                        </div>
+                        <div class="autor">
+                            <h1 class="autor_name">${item.authorName}</h1>
+                            <span class="autor_date">${item.date}</span>
+                        </div>
+                    </div>
+                    <div class="tag">
+                        <span>${item.category}</span>
+                    </div>
+                </div>
+            </div>
+        `
+            )
+            .join("");
+
+          // Container mein HTML insert karein
+          container.innerHTML = html;
+        } catch (error) {
+          console.error("Data load nahi ho paya:", error);
+        }
+      }
+
+      // Function call karein
+      displayCards();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,511 @@
+[
+  {
+    "id": 1,
+    "cardImage": "https://picsum.photos/1000/500",
+    "title": "Tech Trends",
+    "description": "Explore the latest technology trends shaping 2025, from AI innovations to smart devices transforming everyday life.",
+    "authorImg": "https://i.pravatar.cc/40?img=11",
+    "authorName": "Aarav Mehta",
+    "date": "Mar 12, 2025",
+    "category": "Tech"
+  },
+  {
+    "id": 2,
+    "cardImage": "https://picsum.photos/1000/502",
+    "title": "Healthy Living",
+    "description": "Discover practical ways to improve your health through balanced nutrition, regular exercise, and mindful habits.",
+    "authorImg": "https://i.pravatar.cc/40?img=22",
+    "authorName": "Riya Sharma",
+    "date": "Jan 08, 2025",
+    "category": "Health"
+  },
+  {
+    "id": 3,
+    "cardImage": "https://picsum.photos/1000/503",
+    "title": "UI Design",
+    "description": "Learn essential UI design principles including layout, color systems, and typography to build stunning interfaces.",
+    "authorImg": "https://i.pravatar.cc/40?img=33",
+    "authorName": "Kabir Singh",
+    "date": "Feb 19, 2025",
+    "category": "Design"
+  },
+  {
+    "id": 4,
+    "cardImage": "https://picsum.photos/1000/504",
+    "title": "Finance Guide",
+    "description": "Understand how to manage money effectively with budgeting tips, smart investments, and savings strategies.",
+    "authorImg": "https://i.pravatar.cc/40?img=44",
+    "authorName": "Ananya Verma",
+    "date": "Apr 02, 2025",
+    "category": "Finance"
+  },
+  {
+    "id": 5,
+    "cardImage": "https://picsum.photos/1000/505",
+    "title": "Travel Hacks",
+    "description": "Plan your trips better with smart travel hacks, budget tips, and destination guides for hassle-free adventures.",
+    "authorImg": "https://i.pravatar.cc/40?img=55",
+    "authorName": "Rohan Patel",
+    "date": "May 14, 2025",
+    "category": "Travel"
+  },
+
+  {
+    "id": 6,
+    "cardImage": "https://picsum.photos/1000/506",
+    "title": "Coding Tips",
+    "description": "Enhance your programming skills with expert coding tips, debugging tricks, and productivity techniques.",
+    "authorImg": "https://i.pravatar.cc/40?img=6",
+    "authorName": "Neha Gupta",
+    "date": "Feb 03, 2025",
+    "category": "Coding"
+  },
+  {
+    "id": 7,
+    "cardImage": "https://picsum.photos/1000/507",
+    "title": "Fitness Plan",
+    "description": "Build a strong and healthy body with a structured fitness routine designed for beginners and professionals alike.",
+    "authorImg": "https://i.pravatar.cc/40?img=17",
+    "authorName": "Arjun Nair",
+    "date": "Jan 29, 2025",
+    "category": "Fitness"
+  },
+  {
+    "id": 8,
+    "cardImage": "https://picsum.photos/1000/508",
+    "title": "AI Future",
+    "description": "Dive into the future of artificial intelligence and how it is revolutionizing industries across the globe.",
+    "authorImg": "https://i.pravatar.cc/40?img=28",
+    "authorName": "Ishita Roy",
+    "date": "Mar 21, 2025",
+    "category": "Tech"
+  },
+  {
+    "id": 9,
+    "cardImage": "https://picsum.photos/1000/509",
+    "title": "Photography",
+    "description": "Master photography techniques including lighting, framing, and editing to capture breathtaking images.",
+    "authorImg": "https://i.pravatar.cc/40?img=39",
+    "authorName": "Dev Malhotra",
+    "date": "Apr 18, 2025",
+    "category": "Art"
+  },
+  {
+    "id": 10,
+    "cardImage": "https://picsum.photos/1000/510",
+    "title": "Startup Ideas",
+    "description": "Discover innovative startup ideas and learn how to turn your vision into a successful business.",
+    "authorImg": "https://i.pravatar.cc/40?img=50",
+    "authorName": "Simran Kaur",
+    "date": "Feb 11, 2025",
+    "category": "Business"
+  },
+
+  {
+    "id": 11,
+    "cardImage": "https://picsum.photos/1000/511",
+    "title": "Cloud Basics",
+    "description": "Understand cloud computing concepts and how platforms like AWS and Azure power modern applications.",
+    "authorImg": "https://i.pravatar.cc/40?img=12",
+    "authorName": "Rahul Joshi",
+    "date": "Jan 15, 2025",
+    "category": "Coding"
+  },
+  {
+    "id": 12,
+    "cardImage": "https://picsum.photos/1000/512",
+    "title": "Meditation",
+    "description": "Learn simple meditation techniques to reduce stress, improve focus, and enhance mental clarity.",
+    "authorImg": "https://i.pravatar.cc/40?img=23",
+    "authorName": "Pooja Shah",
+    "date": "Mar 05, 2025",
+    "category": "Health"
+  },
+  {
+    "id": 13,
+    "cardImage": "https://picsum.photos/1000/513",
+    "title": "Crypto News",
+    "description": "Stay updated with the latest cryptocurrency trends, blockchain innovations, and market insights.",
+    "authorImg": "https://i.pravatar.cc/40?img=34",
+    "authorName": "Aditya Jain",
+    "date": "Apr 09, 2025",
+    "category": "Finance"
+  },
+  {
+    "id": 14,
+    "cardImage": "https://picsum.photos/1000/514",
+    "title": "Web Dev",
+    "description": "Follow a complete roadmap to become a skilled web developer using modern tools and technologies.",
+    "authorImg": "https://i.pravatar.cc/40?img=45",
+    "authorName": "Sneha Iyer",
+    "date": "May 01, 2025",
+    "category": "Coding"
+  },
+  {
+    "id": 15,
+    "cardImage": "https://picsum.photos/1000/515",
+    "title": "Music Theory",
+    "description": "Understand the basics of music theory including notes, chords, and rhythms for better composition.",
+    "authorImg": "https://i.pravatar.cc/40?img=56",
+    "authorName": "Karan Oberoi",
+    "date": "Feb 22, 2025",
+    "category": "Music"
+  },
+
+  {
+    "id": 16,
+    "cardImage": "https://picsum.photos/1000/516",
+    "title": "Gaming Setup",
+    "description": "Build the ultimate gaming setup with the right hardware, accessories, and optimization tips.",
+    "authorImg": "https://i.pravatar.cc/40?img=7",
+    "authorName": "Vikram Singh",
+    "date": "Jan 19, 2025",
+    "category": "Gaming"
+  },
+  {
+    "id": 17,
+    "cardImage": "https://picsum.photos/1000/517",
+    "title": "Nature Care",
+    "description": "Learn how to protect the environment with sustainable habits and eco-friendly lifestyle choices.",
+    "authorImg": "https://i.pravatar.cc/40?img=18",
+    "authorName": "Meera Nair",
+    "date": "Apr 25, 2025",
+    "category": "Nature"
+  },
+  {
+    "id": 18,
+    "cardImage": "https://picsum.photos/1000/518",
+    "title": "Cooking",
+    "description": "Explore delicious recipes and cooking techniques to enhance your culinary skills at home.",
+    "authorImg": "https://i.pravatar.cc/40?img=29",
+    "authorName": "Chef Rohan",
+    "date": "May 11, 2025",
+    "category": "Food"
+  },
+  {
+    "id": 19,
+    "cardImage": "https://picsum.photos/1000/519",
+    "title": "UX Research",
+    "description": "Understand user behavior and improve product design with effective UX research methods.",
+    "authorImg": "https://i.pravatar.cc/40?img=40",
+    "authorName": "Ankit Verma",
+    "date": "Feb 08, 2025",
+    "category": "Design"
+  },
+  {
+    "id": 20,
+    "cardImage": "https://picsum.photos/1000/520",
+    "title": "Cyber Security",
+    "description": "Stay safe online with essential cybersecurity tips and techniques to protect your data.",
+    "authorImg": "https://i.pravatar.cc/40?img=51",
+    "authorName": "Ritika Das",
+    "date": "Mar 30, 2025",
+    "category": "Security"
+  },
+
+  {
+    "id": 21,
+    "cardImage": "https://picsum.photos/1000/521",
+    "title": "AI Tools",
+    "description": "Discover powerful AI tools that can boost productivity and automate everyday tasks.",
+    "authorImg": "https://i.pravatar.cc/40?img=21",
+    "authorName": "Manish Yadav",
+    "date": "Apr 12, 2025",
+    "category": "Tech"
+  },
+  {
+    "id": 22,
+    "cardImage": "https://picsum.photos/1000/522",
+    "title": "Yoga Guide",
+    "description": "Improve flexibility and mental peace with a simple and effective daily yoga routine.",
+    "authorImg": "https://i.pravatar.cc/40?img=32",
+    "authorName": "Kavya Reddy",
+    "date": "Jan 25, 2025",
+    "category": "Health"
+  },
+  {
+    "id": 23,
+    "cardImage": "https://picsum.photos/1000/523",
+    "title": "Stock Market",
+    "description": "Learn stock market basics and strategies to invest smartly and grow your wealth.",
+    "authorImg": "https://i.pravatar.cc/40?img=43",
+    "authorName": "Harsh Agarwal",
+    "date": "Feb 17, 2025",
+    "category": "Finance"
+  },
+  {
+    "id": 24,
+    "cardImage": "https://picsum.photos/1000/524",
+    "title": "Frontend Tips",
+    "description": "Master frontend development with tips on performance, accessibility, and responsive design.",
+    "authorImg": "https://i.pravatar.cc/40?img=54",
+    "authorName": "Priya Kapoor",
+    "date": "Mar 09, 2025",
+    "category": "Coding"
+  },
+  {
+    "id": 25,
+    "cardImage": "https://picsum.photos/1000/525",
+    "title": "Art Skills",
+    "description": "Enhance your artistic abilities with techniques for sketching, shading, and creative expression.",
+    "authorImg": "https://i.pravatar.cc/40?img=65",
+    "authorName": "Sahil Khan",
+    "date": "May 03, 2025",
+    "category": "Art"
+  },
+
+  {
+    "id": 26,
+    "cardImage": "https://picsum.photos/1000/526",
+    "title": "Travel Europe",
+    "description": "Plan your dream Europe trip with detailed itineraries, budget tips, and must-visit places.",
+    "authorImg": "https://i.pravatar.cc/40?img=8",
+    "authorName": "Aisha Sheikh",
+    "date": "Jan 11, 2025",
+    "category": "Travel"
+  },
+  {
+    "id": 27,
+    "cardImage": "https://picsum.photos/1000/527",
+    "title": "Business Growth",
+    "description": "Scale your business with proven strategies, marketing insights, and growth hacks.",
+    "authorImg": "https://i.pravatar.cc/40?img=19",
+    "authorName": "Rajat Mittal",
+    "date": "Feb 28, 2025",
+    "category": "Business"
+  },
+  {
+    "id": 28,
+    "cardImage": "https://picsum.photos/1000/528",
+    "title": "React Hooks",
+    "description": "Deep dive into React Hooks and learn how to manage state and side effects effectively.",
+    "authorImg": "https://i.pravatar.cc/40?img=30",
+    "authorName": "Tanya Arora",
+    "date": "Apr 07, 2025",
+    "category": "Coding"
+  },
+  {
+    "id": 29,
+    "cardImage": "https://picsum.photos/1000/529",
+    "title": "Gym Plan",
+    "description": "Build muscle and strength with a structured gym workout plan tailored for all levels.",
+    "authorImg": "https://i.pravatar.cc/40?img=41",
+    "authorName": "Vikas Chauhan",
+    "date": "Mar 14, 2025",
+    "category": "Fitness"
+  },
+  {
+    "id": 30,
+    "cardImage": "https://picsum.photos/1000/530",
+    "title": "Space Science",
+    "description": "Explore fascinating facts about space, planets, and the mysteries of the universe.",
+    "authorImg": "https://i.pravatar.cc/40?img=52",
+    "authorName": "Nikhil Bansal",
+    "date": "May 20, 2025",
+    "category": "Science"
+  },
+
+  {
+    "id": 31,
+    "cardImage": "https://picsum.photos/1000/531",
+    "title": "Backend Guide",
+    "description": "Learn backend development concepts including APIs, databases, and server-side logic.",
+    "authorImg": "https://i.pravatar.cc/40?img=13",
+    "authorName": "Deepak Kumar",
+    "date": "Jan 05, 2025",
+    "category": "Coding"
+  },
+  {
+    "id": 32,
+    "cardImage": "https://picsum.photos/1000/532",
+    "title": "Mental Health",
+    "description": "Take care of your mental health with practical tips for stress management and emotional well-being.",
+    "authorImg": "https://i.pravatar.cc/40?img=24",
+    "authorName": "Shreya Ghosh",
+    "date": "Feb 13, 2025",
+    "category": "Health"
+  },
+  {
+    "id": 33,
+    "cardImage": "https://picsum.photos/1000/533",
+    "title": "NFT Guide",
+    "description": "Understand NFTs, how they work, and why they are transforming digital ownership.",
+    "authorImg": "https://i.pravatar.cc/40?img=35",
+    "authorName": "Aman Verma",
+    "date": "Mar 22, 2025",
+    "category": "Finance"
+  },
+  {
+    "id": 34,
+    "cardImage": "https://picsum.photos/1000/534",
+    "title": "CSS Tricks",
+    "description": "Discover modern CSS tricks and techniques to create responsive and attractive designs.",
+    "authorImg": "https://i.pravatar.cc/40?img=46",
+    "authorName": "Nisha Patel",
+    "date": "Apr 16, 2025",
+    "category": "Design"
+  },
+  {
+    "id": 35,
+    "cardImage": "https://picsum.photos/1000/535",
+    "title": "Guitar Basics",
+    "description": "Start your musical journey with simple guitar lessons and practice techniques.",
+    "authorImg": "https://i.pravatar.cc/40?img=57",
+    "authorName": "Rohit Saxena",
+    "date": "May 09, 2025",
+    "category": "Music"
+  },
+
+  {
+    "id": 36,
+    "cardImage": "https://picsum.photos/1000/536",
+    "title": "PC Build",
+    "description": "Learn how to build a custom PC with the right components for performance and budget.",
+    "authorImg": "https://i.pravatar.cc/40?img=9",
+    "authorName": "Varun Kapoor",
+    "date": "Jan 27, 2025",
+    "category": "Tech"
+  },
+  {
+    "id": 37,
+    "cardImage": "https://picsum.photos/1000/537",
+    "title": "Gardening",
+    "description": "Grow healthy plants at home with simple gardening tips and maintenance techniques.",
+    "authorImg": "https://i.pravatar.cc/40?img=20",
+    "authorName": "Sonia Mehta",
+    "date": "Feb 06, 2025",
+    "category": "Nature"
+  },
+  {
+    "id": 38,
+    "cardImage": "https://picsum.photos/1000/538",
+    "title": "Street Food",
+    "description": "Explore the best street food options and learn about popular dishes from around the world.",
+    "authorImg": "https://i.pravatar.cc/40?img=31",
+    "authorName": "Imran Sheikh",
+    "date": "Mar 18, 2025",
+    "category": "Food"
+  },
+  {
+    "id": 39,
+    "cardImage": "https://picsum.photos/1000/539",
+    "title": "UX Writing",
+    "description": "Improve your product communication with effective UX writing and content strategies.",
+    "authorImg": "https://i.pravatar.cc/40?img=42",
+    "authorName": "Kritika Jain",
+    "date": "Apr 28, 2025",
+    "category": "Design"
+  },
+  {
+    "id": 40,
+    "cardImage": "https://picsum.photos/1000/540",
+    "title": "Ethical Hacking",
+    "description": "Learn ethical hacking basics and how to identify vulnerabilities in systems securely.",
+    "authorImg": "https://i.pravatar.cc/40?img=53",
+    "authorName": "Arvind Rao",
+    "date": "May 02, 2025",
+    "category": "Security"
+  },
+
+  {
+    "id": 41,
+    "cardImage": "https://picsum.photos/1000/541",
+    "title": "Machine Learning",
+    "description": "Get started with machine learning concepts, models, and real-world applications.",
+    "authorImg": "https://i.pravatar.cc/40?img=14",
+    "authorName": "Nitin Sharma",
+    "date": "Jan 09, 2025",
+    "category": "Tech"
+  },
+  {
+    "id": 42,
+    "cardImage": "https://picsum.photos/1000/542",
+    "title": "Workout Diet",
+    "description": "Fuel your body with the right nutrition plan to complement your fitness routine.",
+    "authorImg": "https://i.pravatar.cc/40?img=25",
+    "authorName": "Payal Singh",
+    "date": "Feb 21, 2025",
+    "category": "Fitness"
+  },
+  {
+    "id": 43,
+    "cardImage": "https://picsum.photos/1000/543",
+    "title": "Saving Money",
+    "description": "Learn effective saving strategies and budgeting techniques to secure your financial future.",
+    "authorImg": "https://i.pravatar.cc/40?img=36",
+    "authorName": "Mohit Jain",
+    "date": "Mar 11, 2025",
+    "category": "Finance"
+  },
+  {
+    "id": 44,
+    "cardImage": "https://picsum.photos/1000/544",
+    "title": "Next.js Guide",
+    "description": "Understand Next.js fundamentals and how to build fast, SEO-friendly web applications.",
+    "authorImg": "https://i.pravatar.cc/40?img=47",
+    "authorName": "Divya Agarwal",
+    "date": "Apr 05, 2025",
+    "category": "Coding"
+  },
+  {
+    "id": 45,
+    "cardImage": "https://picsum.photos/1000/545",
+    "title": "Painting Art",
+    "description": "Learn painting techniques and unleash your creativity with colors and textures.",
+    "authorImg": "https://i.pravatar.cc/40?img=58",
+    "authorName": "Yash Thakur",
+    "date": "May 18, 2025",
+    "category": "Art"
+  },
+
+  {
+    "id": 46,
+    "cardImage": "https://picsum.photos/1000/546",
+    "title": "World Travel",
+    "description": "Explore top travel destinations and plan your perfect international journey with ease.",
+    "authorImg": "https://i.pravatar.cc/40?img=15",
+    "authorName": "Alisha Khan",
+    "date": "Jan 17, 2025",
+    "category": "Travel"
+  },
+  {
+    "id": 47,
+    "cardImage": "https://picsum.photos/1000/547",
+    "title": "Startup Funding",
+    "description": "Learn how to raise funds for your startup through investors, venture capital, and crowdfunding.",
+    "authorImg": "https://i.pravatar.cc/40?img=26",
+    "authorName": "Sandeep Gupta",
+    "date": "Feb 27, 2025",
+    "category": "Business"
+  },
+  {
+    "id": 48,
+    "cardImage": "https://picsum.photos/1000/548",
+    "title": "Node.js Guide",
+    "description": "Build scalable backend applications using Node.js and modern server-side practices.",
+    "authorImg": "https://i.pravatar.cc/40?img=37",
+    "authorName": "Kunal Verma",
+    "date": "Mar 06, 2025",
+    "category": "Coding"
+  },
+  {
+    "id": 49,
+    "cardImage": "https://picsum.photos/1000/549",
+    "title": "Daily Yoga",
+    "description": "Stay active and flexible with simple daily yoga exercises for all age groups.",
+    "authorImg": "https://i.pravatar.cc/40?img=48",
+    "authorName": "Rashmi Desai",
+    "date": "Apr 22, 2025",
+    "category": "Health"
+  },
+  {
+    "id": 50,
+    "cardImage": "https://picsum.photos/1000/550",
+    "title": "Space Tech",
+    "description": "Discover the latest advancements in space technology and future exploration missions.",
+    "authorImg": "https://i.pravatar.cc/40?img=59",
+    "authorName": "Gaurav Singh",
+    "date": "May 25, 2025",
+    "category": "Science"
+  }
+]
