@@ -40,6 +40,7 @@
 >
 
 📷
+![Project Screenshot](./images/project.png)
 
 ---
 
