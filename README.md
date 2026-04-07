@@ -105,7 +105,7 @@ If you'd like to improve this project:
 ## 👨‍💻 Author
 
 **Apurv**
-🔗 https://github.com/webdev-desktop
+🔗 [Github](https://github.com/webdev-desktop)
 
 ---
 
