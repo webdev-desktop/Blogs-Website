@@ -59,7 +59,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/webdev-desktop/blogs-website.git
+git clone https://github.com/webdev-desktop/Blogs-Website.git
 
 # 2. Navigate into the project folder
 cd blogs-website
